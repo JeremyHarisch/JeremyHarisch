@@ -1,6 +1,6 @@
 
 ## Hey 👾 I'm Jeremy
-- 🍻 I’m interested in Gaming, Metal, and Beer
+- 🤘🏻 I’m interested in Gaming, Metal, and Coding
 - 🖥 I’m currently developing in different Open-Source projects
 - 🔓 I’m looking to collaborate on OpenSource-Projects
 - 📫 How to reach me ... guess have a look at [my webpage](https://harisch.dev/)
