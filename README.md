@@ -6,9 +6,13 @@
 - 📫 How to reach me ... guess have a look at [my webpage](https://harisch.dev/)
 
 ## Stats 🤖
+
+ <p align="center"> 
+
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyharisch&count_private=true&show_icons=true&theme=synthwave)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeremyharisch&theme=synthwave)](https://git.io/streak-stats)
 
+ </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,go,python,cpp,git,github,vim,grafana,stackoverflow" />
